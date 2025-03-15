@@ -14,7 +14,7 @@ Hey there! I'm Channaveer m, an aspiring Data Scientist passionate about leverag
 Here are a few notable projects I've worked on:
 
 ## HR Data Analysis Dashboard:
-# Project Description : 
+### Project Description : 
 • Developed Power BI HR analysis dashboards offering comprehensive insights into employee demographics, attrition rates, and performance metrics.
 
 • Data Scope : Analyzed a dataset comprising 1470 employees, including 237 cases of attrition, resulting in 1233 active employees.
@@ -24,7 +24,7 @@ Here are a few notable projects I've worked on:
 • Impact : Empowered data-driven HR decisions by pinpointing areas for improvement, thereby fostering a highperforming workforce..
 
 ## Liver Patient Prediction:
-# Project Description :
+### Project Description :
 • Developed a comprehensive machine learning framework for predicting liver disease, incorporating various algorithms such as SVM, Decision Trees, Random Forest, Gradient Boosting, and ANN.
 
 • Data Scope : Utilized diverse medical datasets containing relevant features and patient information to train and validate the predictive models.
@@ -32,7 +32,7 @@ Here are a few notable projects I've worked on:
 • Impact : Achieved a notable 78% accuracy in predicting liver disease, offering potential benefits in early diagnosis and intervention for improved patient outcomes.
 
 ## Employee Performance Analysis:
-# Project Description : 
+### Project Description : 
 • INX Future Inc embarks on an employee data analysis project to uncover underlying factors affecting performance. • The project aims to provide actionable insights for HR decision-making while preserving employee morale and the company's reputation.
 
 • Data Scope : Dataset encompasses 1200 employee records with 28 features, meticulously cleaned for analysis.
