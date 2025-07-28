@@ -1,7 +1,7 @@
 ## Welcome to Channaveer M's GitHub Profile! 👋
 Hey there! I'm Channaveer m, an aspiring Data Scientist passionate about leveraging data to derive insights and solve complex problems. Welcome to my GitHub profile, where you'll find a glimpse of my projects and contributions in the field of Data Science, Machine Learning, and Artificial Intelligence.
 
-## About Me
+## 🚀 What I'm Working On  
 📚 Currently, I'm learning about Large Language Models (LLMs) and exploring their applications in natural language processing (NLP) tasks.
 
 👨‍💻 I'm proficient in Python, MySQL, Power BI.
@@ -9,6 +9,16 @@ Hey there! I'm Channaveer m, an aspiring Data Scientist passionate about leverag
 🔬 My areas of expertise include Machine Learning, Deep Learning, Natural Language Processing (NLP), and Data Visualization.
 
 📊 I enjoy working on diverse projects ranging from HR data analysis dashboards to predictive analytics for healthcare and agriculture.
+
+------
+## 🧠 Core Skills  
+- **Programming & Data Tools:** Python (NumPy, Pandas, scikit-learn, TensorFlow, Keras), SQL, Power BI  
+- **Analytics & Visualization:** Matplotlib, Seaborn, Tableau, Excel  
+- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation  
+- **Deep Learning & NLP:** CNN, ANN, Text Preprocessing, Tokenization, Lemmatization  
+- **Cloud & ETL:** AWS (S3, RDS), Power Query, Data Wrangling
+
+-------
 
 ## Projects
 Here are a few notable projects I've worked on:
