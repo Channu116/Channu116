@@ -11,12 +11,12 @@ Hey there! I'm Channaveer m, an aspiring Data Scientist passionate about leverag
 📊 I enjoy working on diverse projects ranging from HR data analysis dashboards to predictive analytics for healthcare and agriculture.
 
 ------
+
 ## 🧠 Core Skills  
 - **Programming & Data Tools:** Python (NumPy, Pandas, scikit-learn, TensorFlow, Keras), SQL, Power BI  
 - **Analytics & Visualization:** Matplotlib, Seaborn, Tableau, Excel  
 - **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation  
 - **Deep Learning & NLP:** CNN, ANN, Text Preprocessing, Tokenization, Lemmatization  
-- **Cloud & ETL:** AWS (S3, RDS), Power Query, Data Wrangling
 
 -------
 
